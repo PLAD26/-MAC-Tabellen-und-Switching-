@@ -13,6 +13,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="8OKk-R83F0BMkZAPfIj9-2" connectable="0" parent="yJRHZcJygPYEmELiQnAR-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Access Port" vertex="1">
+          <mxGeometry relative="1" x="0.2598" as="geometry">
+            <mxPoint x="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yJRHZcJygPYEmELiQnAR-28" edge="1" parent="1" source="yJRHZcJygPYEmELiQnAR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" target="yJRHZcJygPYEmELiQnAR-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -20,6 +25,11 @@
               <mxPoint x="300" y="490" />
               <mxPoint x="400" y="490" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OKk-R83F0BMkZAPfIj9-3" connectable="0" parent="yJRHZcJygPYEmELiQnAR-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(236, 236, 236);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20connectable%3D%220%22%20parent%3D%221%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20value%3D%22Access%20Port%22%20vertex%3D%221%22%3E%3CmxGeometry%20x%3D%22230.10000000000002%22%20y%3D%22490%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0125" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yJRHZcJygPYEmELiQnAR-1" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.switches.workgroup_switch;" value="" vertex="1">
@@ -33,6 +43,11 @@
             </Array>
             <mxPoint x="289.3" y="370" as="sourcePoint" />
             <mxPoint x="289.3" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OKk-R83F0BMkZAPfIj9-1" connectable="0" parent="yJRHZcJygPYEmELiQnAR-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Trunk Port" vertex="1">
+          <mxGeometry relative="1" x="0.184" y="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yJRHZcJygPYEmELiQnAR-2" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.switches.workgroup_switch;" value="" vertex="1">
@@ -83,6 +98,15 @@
         </mxCell>
         <mxCell id="yJRHZcJygPYEmELiQnAR-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PC-D&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;IP: 192.168.10.40/24&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;VLAN 20&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="359" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="8OKk-R83F0BMkZAPfIj9-4" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Access Port" vertex="1">
+          <mxGeometry x="350" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="8OKk-R83F0BMkZAPfIj9-5" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Access Port" vertex="1">
+          <mxGeometry x="234.5" y="297" as="geometry" />
+        </mxCell>
+        <mxCell id="8OKk-R83F0BMkZAPfIj9-6" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Access Port" vertex="1">
+          <mxGeometry x="350" y="297" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
