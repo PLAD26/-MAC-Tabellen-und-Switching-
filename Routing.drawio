@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2p0Dj0ChfT7uVVZhUiKy-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" value="" vertex="1">
+          <mxGeometry height="150" width="604.38" x="256.62" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="2p0Dj0ChfT7uVVZhUiKy-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFCC;" value="" vertex="1">
+          <mxGeometry height="264" width="224" x="352.31" y="107" as="geometry" />
+        </mxCell>
         <mxCell id="2p0Dj0ChfT7uVVZhUiKy-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CDA2BE;" value="" vertex="1">
-          <mxGeometry height="266" width="224" x="584.37" y="107" as="geometry" />
+          <mxGeometry height="264" width="224" x="584.37" y="107" as="geometry" />
         </mxCell>
         <mxCell id="2p0Dj0ChfT7uVVZhUiKy-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" value="" vertex="1">
           <mxGeometry height="266" width="224" x="798" y="525" as="geometry" />
@@ -194,10 +200,10 @@
           <mxGeometry height="30" width="105.75" x="880" y="530" as="geometry" />
         </mxCell>
         <mxCell id="Apm6HaChkrh6_2VyDOjE-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gi0/1&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 192.168.100.1/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="105.75" x="376.62" y="343" as="geometry" />
+          <mxGeometry height="30" width="105.75" x="376.62" y="336" as="geometry" />
         </mxCell>
         <mxCell id="Apm6HaChkrh6_2VyDOjE-97" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gi0/2&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 192.168.200.1/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="105.75" x="634.37" y="343" as="geometry" />
+          <mxGeometry height="30" width="105.75" x="651" y="336" as="geometry" />
         </mxCell>
         <mxCell id="Apm6HaChkrh6_2VyDOjE-98" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gi0/3&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 172.20.0.1/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="105.75" x="407.37" y="460" as="geometry" />
