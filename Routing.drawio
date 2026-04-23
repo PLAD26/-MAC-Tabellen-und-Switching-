@@ -233,7 +233,7 @@
           <mxGeometry height="30" width="60" x="428.06" y="284" as="geometry" />
         </mxCell>
         <mxCell id="2p0Dj0ChfT7uVVZhUiKy-367" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="641" width="924.44" x="75.19000000000005" y="105" as="geometry" />
+          <mxGeometry height="641" width="924.44" x="130.69000000000005" y="105" as="geometry" />
         </mxCell>
         <mxCell id="2p0Dj0ChfT7uVVZhUiKy-42" parent="2p0Dj0ChfT7uVVZhUiKy-367" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.routers.router;" value="" vertex="1">
           <mxGeometry height="40" width="67.25" x="425.05999999999995" y="243" as="geometry" />
