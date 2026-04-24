@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="nVqfUOQFOVqWjYy-1-ey">
-    <mxGraphModel dx="1562" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2343" dy="1500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -994,7 +994,7 @@
         <mxCell id="s21SiUU5BJYAqO1SLiNl-211" parent="s21SiUU5BJYAqO1SLiNl-209" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R5" vertex="1">
           <mxGeometry height="30" width="60" x="3.6299999999998818" y="35" as="geometry" />
         </mxCell>
-        <mxCell id="s21SiUU5BJYAqO1SLiNl-212" parent="1" style="strokeColor=#000000;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.routers.router;" value="" vertex="1">
+        <mxCell id="s21SiUU5BJYAqO1SLiNl-212" parent="1" style="strokeColor=#FF0000;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.routers.router;" value="" vertex="1">
           <mxGeometry height="40" width="67.25" x="5653.63" y="650" as="geometry" />
         </mxCell>
         <mxCell id="s21SiUU5BJYAqO1SLiNl-213" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R2" vertex="1">
