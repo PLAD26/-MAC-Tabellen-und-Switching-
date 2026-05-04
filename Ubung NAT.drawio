@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="_WZtEJbdVKKmC65mkPca">
-    <mxGraphModel dx="970" dy="-206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="670" dy="-398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,6 +48,15 @@
         </mxCell>
         <mxCell id="2Sih8IDvrv-JoKwI1P1G-3" edge="1" parent="1" source="dqSgh3i4wZFIrAoHxsJu-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.015;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="dqSgh3i4wZFIrAoHxsJu-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Sih8IDvrv-JoKwI1P1G-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PC A&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 192.168.1.2 /24&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="87.81" x="65.60000000000001" y="1094" as="geometry" />
+        </mxCell>
+        <mxCell id="2Sih8IDvrv-JoKwI1P1G-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PC B&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 192.168.1.3 /24&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="87.81" x="65.6" y="1224" as="geometry" />
+        </mxCell>
+        <mxCell id="2Sih8IDvrv-JoKwI1P1G-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PC C&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 192.168.1.4 /24&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="87.81" x="65.6" y="1353" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
