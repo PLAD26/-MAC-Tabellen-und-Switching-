@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="_WZtEJbdVKKmC65mkPca">
-    <mxGraphModel dx="970" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1172" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,7 +151,7 @@
         <mxCell id="2Sih8IDvrv-JoKwI1P1G-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gi0/2&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 203.100.5.1/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="36" width="102" x="558" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="2Sih8IDvrv-JoKwI1P1G-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gi0/1&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 200.1.1.2/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="2Sih8IDvrv-JoKwI1P1G-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gi0/1&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 203.100.5.2/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="36" width="102" x="700" y="698" as="geometry" />
         </mxCell>
         <mxCell id="2Sih8IDvrv-JoKwI1P1G-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gi0/2&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 8.8.8.1/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
