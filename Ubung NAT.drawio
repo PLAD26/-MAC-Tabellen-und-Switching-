@@ -202,7 +202,7 @@
         <mxCell id="RYrwEloq79oRqrRkpVOv-14" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.macintosh;" value="" vertex="1">
           <mxGeometry height="64" width="99" x="748.5" y="1040" as="geometry" />
         </mxCell>
-        <mxCell id="RYrwEloq79oRqrRkpVOv-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BEOBACHTER 2&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 192.168.1.5 /24&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="RYrwEloq79oRqrRkpVOv-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BEOBACHTER 2&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 203.100.5.3 /24&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="36" width="98.81" x="748.69" y="1104" as="geometry" />
         </mxCell>
         <mxCell id="RYrwEloq79oRqrRkpVOv-19" edge="1" parent="1" source="RYrwEloq79oRqrRkpVOv-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.015;exitY=0.87;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" target="RYrwEloq79oRqrRkpVOv-5">
