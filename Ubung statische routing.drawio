@@ -3050,8 +3050,8 @@
         <mxCell id="rcddLevwzClcxTINaioX-202" edge="1" parent="1" source="rcddLevwzClcxTINaioX-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.464;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;endArrow=none;endFill=0;" target="rcddLevwzClcxTINaioX-201">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rcddLevwzClcxTINaioX-208" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gi0/0/0&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;IP: 172.16.10.100/24&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="105.75" x="14010" y="290" as="geometry" />
+        <mxCell id="rcddLevwzClcxTINaioX-208" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gi0/0/0&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;IP: 200.1.1.1/24&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="105.75" x="14003.76" y="300" as="geometry" />
         </mxCell>
         <mxCell id="rcddLevwzClcxTINaioX-203" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gi0/0/1&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;IP: 172.16.10.100/24&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="105.75" x="13900" y="382.5" as="geometry" />
