@@ -3044,17 +3044,17 @@
         <mxCell id="rcddLevwzClcxTINaioX-199" parent="rcddLevwzClcxTINaioX-198" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.routers.router;" value="" vertex="1">
           <mxGeometry height="40" width="67.25" y="-20" as="geometry" />
         </mxCell>
-        <mxCell id="rcddLevwzClcxTINaioX-203" parent="rcddLevwzClcxTINaioX-198" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gi0/0/1&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;IP: 172.16.10.100/24&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="105.75" x="30.6299999999992" y="20" as="geometry" />
-        </mxCell>
         <mxCell id="rcddLevwzClcxTINaioX-201" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="INTERNET" vertex="1">
-          <mxGeometry height="113.75" width="152.5" x="13937.5" y="150" as="geometry" />
+          <mxGeometry height="113.75" width="152.5" x="13937.5" y="140" as="geometry" />
         </mxCell>
         <mxCell id="rcddLevwzClcxTINaioX-202" edge="1" parent="1" source="rcddLevwzClcxTINaioX-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.464;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;endArrow=none;endFill=0;" target="rcddLevwzClcxTINaioX-201">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rcddLevwzClcxTINaioX-208" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gi0/0/1&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;IP: 172.16.10.100/24&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="rcddLevwzClcxTINaioX-208" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gi0/0/0&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;IP: 172.16.10.100/24&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="105.75" x="14010" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="rcddLevwzClcxTINaioX-203" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gi0/0/1&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;IP: 172.16.10.100/24&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="105.75" x="13900" y="382.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
