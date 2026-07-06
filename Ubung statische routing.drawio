@@ -3054,7 +3054,7 @@
           <mxGeometry height="30" width="105.75" x="14003.76" y="300" as="geometry" />
         </mxCell>
         <mxCell id="rcddLevwzClcxTINaioX-203" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gi0/0/1&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;IP: 172.16.10.100/24&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="105.75" x="13900" y="382.5" as="geometry" />
+          <mxGeometry height="30" width="105.75" x="13898.01" y="387.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
