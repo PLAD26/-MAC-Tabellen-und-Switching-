@@ -2047,13 +2047,13 @@
         <mxCell id="ITOFq5NGbPngZAAe0J0D-152" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gi0/0/1&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 192.168.100.30/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="105.75" x="6182.68" y="1193" as="geometry" />
         </mxCell>
-        <mxCell id="ITOFq5NGbPngZAAe0J0D-153" edge="1" parent="1" style="html=1;rounded=0;strokeWidth=3;endArrow=none;endFill=0;" value="">
+        <mxCell id="ITOFq5NGbPngZAAe0J0D-153" edge="1" parent="1" style="html=1;rounded=0;strokeWidth=5;endArrow=none;endFill=0;strokeColor=#FF0000;" value="">
           <mxGeometry relative="1" width="100" as="geometry">
             <mxPoint x="6125.81" y="1297" as="sourcePoint" />
             <mxPoint x="6247.81" y="1297" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ITOFq5NGbPngZAAe0J0D-154" edge="1" parent="1" style="html=1;rounded=0;strokeWidth=3;endArrow=none;endFill=0;" value="">
+        <mxCell id="ITOFq5NGbPngZAAe0J0D-154" edge="1" parent="1" style="html=1;rounded=0;strokeWidth=5;endArrow=none;endFill=0;strokeColor=#FF0000;" value="">
           <mxGeometry relative="1" width="100" as="geometry">
             <mxPoint x="6324.660000000001" y="1297" as="sourcePoint" />
             <mxPoint x="6470.81" y="1297" as="targetPoint" />
