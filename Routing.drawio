@@ -2358,7 +2358,7 @@
         <mxCell id="ITOFq5NGbPngZAAe0J0D-250" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.macintosh;" value="" vertex="1">
           <mxGeometry height="64" width="99" x="7450.5" y="1505" as="geometry" />
         </mxCell>
-        <mxCell id="ITOFq5NGbPngZAAe0J0D-251" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.routers.router;" value="" vertex="1">
+        <mxCell id="ITOFq5NGbPngZAAe0J0D-251" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=light-dark(#FF0000,#5CB3DC);strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.routers.router;" value="" vertex="1">
           <mxGeometry height="40" width="67.25" x="7820.930000000001" y="1293" as="geometry" />
         </mxCell>
         <mxCell id="ITOFq5NGbPngZAAe0J0D-252" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.switches.workgroup_switch;" value="" vertex="1">
