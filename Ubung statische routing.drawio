@@ -2024,7 +2024,7 @@
           <mxGeometry height="40" width="67.25" x="10969.009999999998" y="790" as="geometry" />
         </mxCell>
         <mxCell id="j4vR1cOGm4CLHekTEtDa-119" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R3" vertex="1">
-          <mxGeometry height="30" width="60" x="11060" y="794" as="geometry" />
+          <mxGeometry height="30" width="60" x="11023.62" y="795" as="geometry" />
         </mxCell>
         <mxCell id="j4vR1cOGm4CLHekTEtDa-120" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.routers.router;" value="" vertex="1">
           <mxGeometry height="40" width="67.25" x="10330" y="580" as="geometry" />
@@ -2211,7 +2211,7 @@
           <mxGeometry height="30" width="60" x="10579.43" y="400" as="geometry" />
         </mxCell>
         <mxCell id="j4vR1cOGm4CLHekTEtDa-198" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R5" vertex="1">
-          <mxGeometry height="30" width="60" x="11019.429999999998" y="400" as="geometry" />
+          <mxGeometry height="30" width="60" x="11023.619999999999" y="400" as="geometry" />
         </mxCell>
         <mxCell id="j4vR1cOGm4CLHekTEtDa-200" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gi0/0/0&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 192.168.10.1/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="105.75" x="10240" y="604.5" as="geometry" />
