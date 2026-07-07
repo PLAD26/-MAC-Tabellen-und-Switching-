@@ -3724,6 +3724,18 @@
         <mxCell id="4ba6qljNLl7N4VeOP8D--255" edge="1" parent="1" source="4ba6qljNLl7N4VeOP8D--170" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.87;entryY=0.74;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;endArrow=none;endFill=0;" target="4ba6qljNLl7N4VeOP8D--231">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4ba6qljNLl7N4VeOP8D--258" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.routers.router;" value="" vertex="1">
+          <mxGeometry height="40" width="67.25" x="16991" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="4ba6qljNLl7N4VeOP8D--259" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.routers.router;" value="" vertex="1">
+          <mxGeometry height="40" width="67.25" x="16994.07" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="4ba6qljNLl7N4VeOP8D--260" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.routers.router;" value="" vertex="1">
+          <mxGeometry height="40" width="67.25" x="17148.44" y="518.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4ba6qljNLl7N4VeOP8D--261" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.routers.router;" value="" vertex="1">
+          <mxGeometry height="40" width="67.25" x="16810.07" y="514" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
