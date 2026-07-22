@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="nVqfUOQFOVqWjYy-1-ey">
-    <mxGraphModel dx="469" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="493" dy="316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2208,11 +2208,11 @@
         <mxCell id="xy6yJXVgHtr9R9UDsmKF-34" edge="1" parent="xy6yJXVgHtr9R9UDsmKF-28" source="xy6yJXVgHtr9R9UDsmKF-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.84;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=#CC99FF;labelBorderColor=default;labelBackgroundColor=default;strokeWidth=3;endArrow=none;endFill=0;" target="xy6yJXVgHtr9R9UDsmKF-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xy6yJXVgHtr9R9UDsmKF-35" parent="xy6yJXVgHtr9R9UDsmKF-28" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PC A&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 192.168.1.10/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="101.6826923076923" x="10" y="94.5" as="geometry" />
+        <mxCell id="xy6yJXVgHtr9R9UDsmKF-35" parent="xy6yJXVgHtr9R9UDsmKF-28" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PC A&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 192.168.1.10/24&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Gateway:&lt;/b&gt; 192.168.1.1&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="10" y="94.5" as="geometry" />
         </mxCell>
-        <mxCell id="xy6yJXVgHtr9R9UDsmKF-36" parent="xy6yJXVgHtr9R9UDsmKF-28" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PC B&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 192.168.1.11/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="101.6826923076923" x="310" y="94.5" as="geometry" />
+        <mxCell id="xy6yJXVgHtr9R9UDsmKF-36" parent="xy6yJXVgHtr9R9UDsmKF-28" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PC B&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 192.168.1.11/24&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Gateway:&lt;/b&gt; 192.168.1.1&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="111.68" x="300" y="94.5" as="geometry" />
         </mxCell>
         <mxCell id="xy6yJXVgHtr9R9UDsmKF-37" parent="xy6yJXVgHtr9R9UDsmKF-28" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gi0/0/0&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 192.168.1.1/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="101.6826923076923" x="196" y="110" as="geometry" />
@@ -2244,11 +2244,11 @@
         <mxCell id="xy6yJXVgHtr9R9UDsmKF-50" edge="1" parent="xy6yJXVgHtr9R9UDsmKF-44" source="xy6yJXVgHtr9R9UDsmKF-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.84;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=#CC99FF;labelBorderColor=default;labelBackgroundColor=default;strokeWidth=3;endArrow=none;endFill=0;" target="xy6yJXVgHtr9R9UDsmKF-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xy6yJXVgHtr9R9UDsmKF-51" parent="xy6yJXVgHtr9R9UDsmKF-44" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PC C&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 192.168.20.10/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="101.6826923076923" x="10" y="103.5" as="geometry" />
+        <mxCell id="xy6yJXVgHtr9R9UDsmKF-51" parent="xy6yJXVgHtr9R9UDsmKF-44" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PC C&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 192.168.20.10/24&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Gateway:&lt;/b&gt; 192.168.20.1&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="10" y="103.5" as="geometry" />
         </mxCell>
-        <mxCell id="xy6yJXVgHtr9R9UDsmKF-52" parent="xy6yJXVgHtr9R9UDsmKF-44" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PC D&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 192.168.20.11/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="101.6826923076923" x="310" y="103.5" as="geometry" />
+        <mxCell id="xy6yJXVgHtr9R9UDsmKF-52" parent="xy6yJXVgHtr9R9UDsmKF-44" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PC D&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 192.168.20.11/24&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Gateway:&lt;/b&gt; 192.168.20.1&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="111.68" x="300" y="103.5" as="geometry" />
         </mxCell>
         <mxCell id="xy6yJXVgHtr9R9UDsmKF-53" parent="xy6yJXVgHtr9R9UDsmKF-43" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gi0/0/1&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;IP: 192.168.20.1/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="101.6826923076923" x="100" as="geometry" />
